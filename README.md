@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Flux - India
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Indian Social Network web app built in ReactJS with Firebase Cloud Firestore
 
-## Available Scripts
+## Development
 
 In the project directory, you can run:
 
