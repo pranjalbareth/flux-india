@@ -1,4 +1,4 @@
-# Flux - India
+# 🌱 Flux - India
 
 An Indian Social Network web app built in ReactJS with Firebase Cloud Firestore
 
