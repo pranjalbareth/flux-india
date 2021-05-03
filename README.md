@@ -2,6 +2,8 @@
 
 <a href="https://flux-india.web.app/" alt="build passing"><img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
 
+⚠ In Development
+
 An Indian Social Network web app built in ReactJS with Firebase Cloud Firestore
 
 ## Deployed 
