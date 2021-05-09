@@ -3,7 +3,7 @@ import "./style.css"
 import { SignInBtn } from '../../components';
 import { UserContext } from '../../contexts/user';
 
-export default function Navbar() {
+export default function NavBar() {
 
     const [user, setUser] = useContext(UserContext).user
 
