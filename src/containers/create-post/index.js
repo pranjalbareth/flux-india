@@ -99,7 +99,7 @@ export default function CreatePost() {
             </div>
             ) : (
                 <div style={{display: "flex"}}>
-                    <p style={{ marginLeft: "0px", fontSize: "18px", fontWeight:"500", padding:"250px 0px"}}><span style={{fontSize: "17px"}}>⚠️</span>&nbsp; In Development, you can still try it out </p>
+                    <p style={{ marginLeft: "0px", fontSize: "18px", fontWeight:"500", padding:"250px 0px"}}><span style={{fontSize: "17px"}}>⚠️</span>&nbsp; In Development</p>
                 </div>
             )}
         </div>
