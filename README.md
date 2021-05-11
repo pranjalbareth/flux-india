@@ -1,5 +1,7 @@
 # 🌱 Flux - India
 
+[![Join the chat at https://gitter.im/flux-india/community](https://badges.gitter.im/flux-india/community.svg)](https://gitter.im/flux-india/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href="https://flux-india.web.app/" alt="build passing"><img src="https://img.shields.io/badge/build-passing-brightgreen" /></a>
 
 ⚠ In Development
